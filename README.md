@@ -1,9 +1,11 @@
 ## G10
 | icon                                                                                               | name            | URI                                       |
 |----------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------|
+| ![G](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/g.ico)                         | g10                 | https://icons.g10.app/g.ico               |
 | ![G10](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/g10.ico)                         | g10             | https://icons.g10.app/g10.ico             |
 | ![G10 engine](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/g10-engine.ico)           | engine          | https://icons.g10.app/g10-engine.ico      |
 | ![gport](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/gport.ico)                     | gport           | https://icons.g10.app/gport.ico           |
+| ![audio](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/audio.ico)                     | audio           | https://icons.g10.app/audio.ico           |
 | ![tool](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/tool.ico)                       | tool            | https://icons.g10.app/tool.ico            |
 | ![shader-compiler](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/shader-compiler.ico) | shader-compiler | https://icons.g10.app/shader-compiler.ico |
 | ![input-tool](https://raw.githubusercontent.com/Jacob-C-Smith/gicon/main/ginput.ico)               | input-tool      | https://icons.g10.app/ginput.ico          |
