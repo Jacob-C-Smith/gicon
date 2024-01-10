@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=distribute
+Path=/home/j/Desktop/c/distribute
+Exec=xdg-open /home/j/Desktop/c/distribute
+Icon=/home/j/Desktop/gicon/distribute-light.png
+Type=Application

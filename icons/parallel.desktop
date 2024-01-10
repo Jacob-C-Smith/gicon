@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=parallel
+Path=/home/j/Desktop/c/parallel
+Exec=xdg-open /home/j/Desktop/c/parallel
+Icon=/home/j/Desktop/gicon/parallel-light.png
+Type=Application

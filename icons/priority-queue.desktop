@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=priority-queue
+Path=/home/j/Desktop/c/priority-queue
+Exec=xdg-open /home/j/Desktop/c/priority-queue
+Icon=/home/j/Desktop/gicon/priority-queue.png
+Type=Application

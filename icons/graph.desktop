@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=graph
+Path=/home/j/Desktop/c/graph
+Exec=xdg-open /home/j/Desktop/c/graph
+Icon=/home/j/Desktop/gicon/graph.png
+Type=Application

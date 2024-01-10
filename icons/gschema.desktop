@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gschema
+Path=/home/j/Desktop/schema/gschema
+Exec=xdg-open /home/j/Desktop/schema/gschema
+Icon=/home/j/Desktop/gicon/gschema-light.png
+Type=Application

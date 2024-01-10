@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gport
+Path=/home/j/Desktop/python/gport
+Exec=xdg-open /home/j/Desktop/python/gport
+Icon=/home/j/Desktop/gicon/gport-light.png
+Type=Application

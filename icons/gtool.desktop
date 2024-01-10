@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gtools
+Path=/home/j/Desktop/c/gtools
+Exec=xdg-open /home/j/Desktop/c/gtools
+Icon=/home/j/Desktop/gicon/tool-light.png
+Type=Application

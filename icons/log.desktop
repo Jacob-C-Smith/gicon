@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=log
+Path=/home/j/Desktop/c/log
+Exec=xdg-open /home/j/Desktop/c/log
+Icon=/home/j/Desktop/gicon/log-light.png
+Type=Application

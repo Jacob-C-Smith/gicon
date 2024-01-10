@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=stack
+Path=/home/j/Desktop/c/stack
+Exec=xdg-open /home/j/Desktop/c/stack
+Icon=/home/j/Desktop/gicon/stack.png
+Type=Application

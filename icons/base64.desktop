@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=base64
+Path=/home/j/Desktop/c/base64
+Exec=xdg-open /home/j/Desktop/c/base64
+Icon=/home/j/Desktop/gicon/base64.png
+Type=Application

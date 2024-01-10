@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=set
+Path=/home/j/Desktop/c/set
+Exec=xdg-open /home/j/Desktop/c/set
+Icon=/home/j/Desktop/gicon/set.png
+Type=Application

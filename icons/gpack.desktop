@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gpack
+Path=/home/j/Desktop/c/gpack
+Exec=xdg-open /home/j/Desktop/c/gpack
+Icon=/home/j/Desktop/gicon/gpack.ico
+Type=Application

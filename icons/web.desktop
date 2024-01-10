@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=web
+Path=/home/j/Desktop/c/web
+Exec=xdg-open /home/j/Desktop/c/web
+Icon=/home/j/Desktop/gicon/http-server.png
+Type=Application

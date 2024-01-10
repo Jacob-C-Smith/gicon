@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=glufs
+Path=/home/j/Desktop/c/glufs
+Exec=xdg-open /home/j/Desktop/c/glufs
+Icon=/home/j/Desktop/gicon/glufs-light.png
+Type=Application

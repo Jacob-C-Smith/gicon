@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=socket
+Path=/home/j/Desktop/c/socket
+Exec=xdg-open /home/j/Desktop/c/socket
+Icon=/home/j/Desktop/gicon/socket.png
+Type=Application

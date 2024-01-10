@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=json
+Path=/home/j/Desktop/c/json
+Exec=xdg-open /home/j/Desktop/c/json
+Icon=/home/j/Desktop/gicon/json.png
+Type=Application

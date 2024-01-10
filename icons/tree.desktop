@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=tree
+Path=/home/j/Desktop/c/tree
+Exec=xdg-open /home/j/Desktop/c/tree
+Icon=/home/j/Desktop/gicon/tree.png
+Type=Application

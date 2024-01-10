@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=data
+Path=/home/j/Desktop/c/data
+Exec=xdg-open /home/j/Desktop/c/data
+Icon=/home/j/Desktop/gicon/data-light.png
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=csv
+Path=/home/j/Desktop/c/csv
+Exec=xdg-open /home/j/Desktop/c/csv
+Icon=/home/j/Desktop/gicon/csv.png
+Type=Application

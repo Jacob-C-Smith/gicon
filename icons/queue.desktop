@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=queue
+Path=/home/j/Desktop/c/queue
+Exec=xdg-open /home/j/Desktop/c/queue
+Icon=/home/j/Desktop/gicon/queue.png
+Type=Application

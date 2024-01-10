@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ui-schema
+Path=/home/j/Desktop/schema/ui-schema
+Exec=xdg-open /home/j/Desktop/schema/ui-schema
+Icon=/home/j/Desktop/gicon/ui-schema-light.png
+Type=Application

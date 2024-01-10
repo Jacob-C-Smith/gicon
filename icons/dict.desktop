@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=dict
+Path=/home/j/Desktop/c/dict
+Exec=xdg-open /home/j/Desktop/c/dict
+Icon=/home/j/Desktop/gicon/dict.png
+Type=Application

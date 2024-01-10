@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=eddy
+Path=/home/j/Desktop/c/eddy
+Exec=xdg-open /home/j/Desktop/c/eddy
+Icon=/home/j/Desktop/gicon/eddy.png
+Type=Application

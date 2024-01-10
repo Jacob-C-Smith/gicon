@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=sync
+Path=/home/j/Desktop/c/sync
+Exec=xdg-open /home/j/Desktop/c/sync
+Icon=/home/j/Desktop/gicon/sync.png
+Type=Application

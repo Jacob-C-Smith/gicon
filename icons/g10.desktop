@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=g10
+Path=/home/j/Desktop/c/g10
+Exec=xdg-open /home/j/Desktop/c/g10
+Icon=/home/j/Desktop/gicon/g10.png
+Type=Application

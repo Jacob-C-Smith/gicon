@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=array
+Path=/home/j/Desktop/c/array
+Exec=xdg-open /home/j/Desktop/c/array
+Icon=/home/j/Desktop/gicon/array.png
+Type=Application

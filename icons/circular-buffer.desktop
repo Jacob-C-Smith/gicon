@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=circular-buffer
+Path=/home/j/Desktop/c/circular-buffer
+Exec=xdg-open /home/j/Desktop/c/circular-buffer
+Icon=/home/j/Desktop/gicon/circular-buffer.png
+Type=Application

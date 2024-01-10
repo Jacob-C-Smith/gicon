@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ui
+Path=/home/j/Desktop/c/ui
+Exec=xdg-open /home/j/Desktop/c/ui
+Icon=/home/j/Desktop/gicon/ui-light.png
+Type=Application

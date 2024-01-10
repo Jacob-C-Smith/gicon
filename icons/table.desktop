@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=table
+Path=/home/j/Desktop/c/table
+Exec=xdg-open /home/j/Desktop/c/table
+Icon=/home/j/Desktop/gicon/table.png
+Type=Application

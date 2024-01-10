@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=g10.app
+Path=/home/j/Desktop/html/Jacob-C-Smith.github.io
+Exec=xdg-open /home/j/Desktop/html/Jacob-C-Smith.github.io
+Icon=/home/j/Desktop/gicon/g.png
+Type=Application

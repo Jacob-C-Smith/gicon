@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=g10-web
+Path=/home/j/Desktop/javascript/g10-web
+Exec=xdg-open /home/j/Desktop/javascript/g10-web
+Icon=/home/j/Desktop/gicon/g10-web.png
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=path
+Path=/home/j/Desktop/c/path
+Exec=xdg-open /home/j/Desktop/c/path
+Icon=/home/j/Desktop/gicon/path.png
+Type=Application

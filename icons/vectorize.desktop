@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=vectorize
+Path=/home/j/Desktop/c/vectorize
+Exec=xdg-open /home/j/Desktop/c/vectorize
+Icon=/home/j/Desktop/gicon/vectorized-light.png
+Type=Application

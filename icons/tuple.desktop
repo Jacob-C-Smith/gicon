@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=tuple
+Path=/home/j/Desktop/c/tuple
+Exec=xdg-open /home/j/Desktop/c/tuple
+Icon=/home/j/Desktop/gicon/tuple.png
+Type=Application
