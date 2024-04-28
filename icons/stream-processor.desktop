@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=stream-processor
+Path=/home/j/Desktop/c/stream-processor
+Exec=xdg-open /home/j/Desktop/c/stream-processor
+Icon=/home/j/Desktop/gicon/stream-processor.png
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=node
+Path=/home/j/Desktop/c/node
+Exec=xdg-open /home/j/Desktop/c/node
+Icon=/home/j/Desktop/gicon/node.png
+Type=Application

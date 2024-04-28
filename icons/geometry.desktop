@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=geometry
+Path=/home/j/Desktop/c/geometry
+Exec=xdg-open /home/j/Desktop/c/geometry
+Icon=/home/j/Desktop/gicon/geometry.png
+Type=Application

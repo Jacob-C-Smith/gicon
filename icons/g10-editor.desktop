@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=g10-editor
+Path=/home/j/Desktop/c/g10-editor
+Exec=xdg-open /home/j/Desktop/c/g10-editor
+Icon=/home/j/Desktop/gicon/g10-black.png
+Type=Application

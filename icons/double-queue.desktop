@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=double-queue
+Path=/home/j/Desktop/c/double-queue
+Exec=xdg-open /home/j/Desktop/c/double-queue
+Icon=/home/j/Desktop/gicon/double-queue.png
+Type=Application

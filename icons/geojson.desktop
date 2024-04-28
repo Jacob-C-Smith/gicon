@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=geojson
+Path=/home/j/Desktop/c/geojson
+Exec=xdg-open /home/j/Desktop/c/geojson
+Icon=/home/j/Desktop/gicon/geojson.png
+Type=Application

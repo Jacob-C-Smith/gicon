@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=crypto
+Path=/home/j/Desktop/c/crypto
+Exec=xdg-open /home/j/Desktop/c/crypto
+Icon=/home/j/Desktop/gicon/crypto.png
+Type=Application
