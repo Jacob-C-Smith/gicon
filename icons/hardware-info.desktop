@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=hardware-info
-Path=/home/j/Desktop/c/hardware-info
-Exec=xdg-open /home/j/Desktop/c/hardware-info
-Icon=/home/j/Desktop/gicon/hardware-info.ico
+Name=hw-info
+Path=/home/j/Desktop/c/hw-info
+Exec=xdg-open /home/j/Desktop/c/hw-info
+Icon=/home/j/Desktop/gicon/hwinfo.png
 Type=Application

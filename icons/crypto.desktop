@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=crypto
-Path=/home/j/Desktop/c/crypto
-Exec=xdg-open /home/j/Desktop/c/crypto
-Icon=/home/j/Desktop/gicon/crypto.png
+Name=ui-designer
+Path=/home/j/Desktop/c/ui-designer
+Exec=xdg-open /home/j/Desktop/c/ui-designer
+Icon=/home/j/Desktop/gicon/ui-designer-light.png
 Type=Application
