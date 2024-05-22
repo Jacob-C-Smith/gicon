@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=renderer
+Path=/home/j/Desktop/c/renderer
+Exec=xdg-open /home/j/Desktop/c/renderer
+Icon=/home/j/Desktop/gicon/renderer-light.png
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=hwinfo
+Path=/home/j/Desktop/c/hardware-info
+Exec=xdg-open /home/j/Desktop/c/hardware-info
+Icon=/home/j/Desktop/gicon/hwinfo.ico
+Type=Application

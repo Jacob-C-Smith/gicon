@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=geojson
+Name=geospatial
 Path=/home/j/Desktop/c/geojson
 Exec=xdg-open /home/j/Desktop/c/geojson
 Icon=/home/j/Desktop/gicon/geojson.png

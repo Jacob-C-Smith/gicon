@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=hash-cache
+Path=/home/j/Desktop/c/hash-cache
+Exec=xdg-open /home/j/Desktop/c/hash-cache
+Icon=/home/j/Desktop/gicon/hash-table.ico
+Type=Application

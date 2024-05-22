@@ -2,5 +2,5 @@
 Name=geometry
 Path=/home/j/Desktop/c/geometry
 Exec=xdg-open /home/j/Desktop/c/geometry
-Icon=/home/j/Desktop/gicon/geometry.png
+Icon=/home/j/Desktop/gicon/geometry.ico
 Type=Application
